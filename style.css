@@ -90,3 +90,7 @@ button {
 input[type="password"] {
     padding-right: 45px;
 } 
+
+footer {
+	text-align: center;
+}
