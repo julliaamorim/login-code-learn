@@ -24,6 +24,7 @@ O objetivo foi construir uma interface limpa, moderna e responsiva para simular 
 
 * ⚙️ **HTML5**
 * 🎨 **CSS3**
+* **JavaScript**
 * 🌐 **GitHub Pages** 
 
 ---
